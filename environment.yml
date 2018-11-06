@@ -1,0 +1,5 @@
+name: django-env
+channels:
+  - defaults
+prefix: C:\Users\chri8006\AppData\Local\Continuum\anaconda3\envs\django-env
+
